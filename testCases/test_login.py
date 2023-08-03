@@ -3,7 +3,6 @@ from pageObjects.LoginPage import LoginPage
 from utilities.readProperties import  readConfig
 from utilities.customLogger import LogGen
 
-
 class Test_001_Login:
     baseURL = readConfig.getApplicationURL()
     username = readConfig.getUserEmail()

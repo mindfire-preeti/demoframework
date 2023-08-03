@@ -12,7 +12,7 @@ class Test_002_DDT_Login:
     path ="./TestData/LoginData.xlsx"
 
     logger = LogGen.loggen()
-
+# Test the multiple combination of Valid/Invalid Logins
     @pytest.mark.regression
     def test_login_ddt(self , setup):
         self.logger.info("******** verify login DDT test********")
