@@ -1,0 +1,283 @@
+07312023 02:44:50 PM: INFO: **********Test_001_Login**********
+07312023 02:44:50 PM: INFO: **********Verify Home Page title**********
+07312023 02:44:51 PM: INFO: *********Home Page title test is passed**********
+07312023 02:44:53 PM: INFO: **********Verify Login test**********
+07312023 02:44:57 PM: INFO: *********Login test is passed**********
+07312023 05:55:34 PM: INFO: **********Test_001_Login**********
+07312023 05:55:34 PM: INFO: **********Verify Home Page title**********
+07312023 05:55:36 PM: INFO: *********Home Page title test is passed**********
+07312023 05:55:42 PM: INFO: **********Verify Login test**********
+07312023 05:55:49 PM: INFO: *********Login test is passed**********
+07312023 05:55:57 PM: INFO: ====== WebDriver manager ======
+07312023 05:55:58 PM: INFO: Get LATEST geckodriver version for 106.0 firefox
+07312023 05:55:58 PM: INFO: Get LATEST geckodriver version for 106.0 firefox
+07312023 05:55:58 PM: INFO: There is no [mac64] geckodriver "v0.33.0" for browser firefox "106.0" in cache
+07312023 05:55:58 PM: INFO: Get LATEST geckodriver version for 106.0 firefox
+07312023 05:55:58 PM: INFO: Getting latest mozilla release info for v0.33.0
+07312023 05:55:59 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-macos-aarch64.tar.gz
+07312023 05:56:01 PM: INFO: Driver downloading response is 200
+07312023 05:56:01 PM: INFO: Get LATEST geckodriver version for 106.0 firefox
+07312023 05:56:01 PM: INFO: Driver has been saved in cache [/Users/preetisharma/.wdm/drivers/geckodriver/mac64/v0.33.0]
+07312023 05:56:04 PM: INFO: **********Test_001_Login**********
+07312023 05:56:04 PM: INFO: **********Verify Home Page title**********
+07312023 05:56:05 PM: INFO: *********Home Page title test is passed**********
+07312023 05:56:05 PM: INFO: ====== WebDriver manager ======
+07312023 05:56:05 PM: INFO: Get LATEST geckodriver version for 106.0 firefox
+07312023 05:56:06 PM: INFO: Get LATEST geckodriver version for 106.0 firefox
+07312023 05:56:06 PM: INFO: There is no [mac64] geckodriver "v0.33.0" for browser firefox "106.0" in cache
+07312023 05:56:06 PM: INFO: Get LATEST geckodriver version for 106.0 firefox
+07312023 05:56:06 PM: INFO: Getting latest mozilla release info for v0.33.0
+07312023 05:56:06 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-macos-aarch64.tar.gz
+07312023 05:56:07 PM: INFO: Driver downloading response is 200
+07312023 05:56:07 PM: INFO: Get LATEST geckodriver version for 106.0 firefox
+07312023 05:56:07 PM: INFO: Driver has been saved in cache [/Users/preetisharma/.wdm/drivers/geckodriver/mac64/v0.33.0]
+07312023 05:58:25 PM: INFO: ====== WebDriver manager ======
+07312023 05:58:25 PM: INFO: Get LATEST geckodriver version for 106.0 firefox
+07312023 05:58:26 PM: INFO: Get LATEST geckodriver version for 106.0 firefox
+07312023 05:58:26 PM: INFO: There is no [mac64] geckodriver "v0.33.0" for browser firefox "106.0" in cache
+07312023 05:58:26 PM: INFO: Get LATEST geckodriver version for 106.0 firefox
+07312023 05:58:26 PM: INFO: Getting latest mozilla release info for v0.33.0
+07312023 05:58:26 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-macos-aarch64.tar.gz
+07312023 05:58:27 PM: INFO: Driver downloading response is 200
+07312023 05:58:27 PM: INFO: Get LATEST geckodriver version for 106.0 firefox
+07312023 05:58:28 PM: INFO: Driver has been saved in cache [/Users/preetisharma/.wdm/drivers/geckodriver/mac64/v0.33.0]
+07312023 05:58:30 PM: INFO: **********Test_001_Login**********
+07312023 05:58:30 PM: INFO: **********Verify Home Page title**********
+07312023 05:58:32 PM: INFO: *********Home Page title test is passed**********
+07312023 05:58:32 PM: INFO: ====== WebDriver manager ======
+07312023 05:58:32 PM: INFO: Get LATEST geckodriver version for 106.0 firefox
+07312023 05:58:32 PM: INFO: Get LATEST geckodriver version for 106.0 firefox
+07312023 05:58:32 PM: INFO: There is no [mac64] geckodriver "v0.33.0" for browser firefox "106.0" in cache
+07312023 05:58:32 PM: INFO: Get LATEST geckodriver version for 106.0 firefox
+07312023 05:58:33 PM: INFO: Getting latest mozilla release info for v0.33.0
+07312023 05:58:33 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-macos-aarch64.tar.gz
+07312023 05:58:33 PM: INFO: Driver downloading response is 200
+07312023 05:58:33 PM: INFO: Get LATEST geckodriver version for 106.0 firefox
+07312023 05:58:34 PM: INFO: Driver has been saved in cache [/Users/preetisharma/.wdm/drivers/geckodriver/mac64/v0.33.0]
+07312023 06:06:36 PM: INFO: **********Test_001_Login**********
+07312023 06:06:36 PM: INFO: **********Verify Home Page title**********
+07312023 06:06:38 PM: INFO: *********Home Page title test is passed**********
+07312023 06:06:43 PM: INFO: **********Verify Login test**********
+07312023 06:06:50 PM: INFO: *********Login test is passed**********
+07312023 06:07:58 PM: INFO: **********Test_001_Login**********
+07312023 06:07:58 PM: INFO: **********Verify Login test**********
+07312023 06:07:58 PM: INFO: **********Verify Home Page title**********
+07312023 06:08:00 PM: INFO: *********Home Page title test is passed**********
+07312023 06:08:05 PM: INFO: *********Login test is passed**********
+07312023 06:38:46 PM: INFO: xdist worker is: gw1
+07312023 06:38:46 PM: INFO: xdist worker is: gw0
+07312023 06:38:46 PM: INFO: ====== WebDriver manager ======
+07312023 06:38:46 PM: INFO: ====== WebDriver manager ======
+07312023 06:38:46 PM: INFO: Get LATEST geckodriver version for 106.0 firefox
+07312023 06:38:46 PM: INFO: Get LATEST geckodriver version for 106.0 firefox
+07312023 06:38:47 PM: INFO: Get LATEST geckodriver version for 106.0 firefox
+07312023 06:38:47 PM: INFO: Get LATEST geckodriver version for 106.0 firefox
+07312023 06:38:47 PM: INFO: There is no [mac64] geckodriver "v0.33.0" for browser firefox "106.0" in cache
+07312023 06:38:47 PM: INFO: Get LATEST geckodriver version for 106.0 firefox
+07312023 06:38:47 PM: INFO: There is no [mac64] geckodriver "v0.33.0" for browser firefox "106.0" in cache
+07312023 06:38:47 PM: INFO: Get LATEST geckodriver version for 106.0 firefox
+07312023 06:38:47 PM: INFO: Getting latest mozilla release info for v0.33.0
+07312023 06:38:47 PM: INFO: Getting latest mozilla release info for v0.33.0
+07312023 06:38:47 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-macos-aarch64.tar.gz
+07312023 06:38:47 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-macos-aarch64.tar.gz
+07312023 06:38:48 PM: INFO: Driver downloading response is 200
+07312023 06:38:48 PM: INFO: Driver downloading response is 200
+07312023 06:38:48 PM: INFO: Get LATEST geckodriver version for 106.0 firefox
+07312023 06:38:48 PM: INFO: Get LATEST geckodriver version for 106.0 firefox
+07312023 06:38:49 PM: INFO: Driver has been saved in cache [/Users/preetisharma/.wdm/gw0/drivers/geckodriver/mac64/v0.33.0]
+07312023 06:38:49 PM: INFO: Driver has been saved in cache [/Users/preetisharma/.wdm/gw1/drivers/geckodriver/mac64/v0.33.0]
+07312023 06:38:51 PM: INFO: **********Test_001_Login**********
+07312023 06:38:51 PM: INFO: **********Verify Home Page title**********
+07312023 06:38:51 PM: INFO: **********Verify Login test**********
+07312023 06:38:53 PM: INFO: *********Home Page title test is passed**********
+07312023 06:38:55 PM: INFO: *********Login test is passed**********
+07312023 06:39:09 PM: INFO: ====== WebDriver manager ======
+07312023 06:39:10 PM: INFO: Get LATEST geckodriver version for 106.0 firefox
+07312023 06:39:10 PM: INFO: Get LATEST geckodriver version for 106.0 firefox
+07312023 06:39:10 PM: INFO: There is no [mac64] geckodriver "v0.33.0" for browser firefox "106.0" in cache
+07312023 06:39:10 PM: INFO: Get LATEST geckodriver version for 106.0 firefox
+07312023 06:39:10 PM: INFO: Getting latest mozilla release info for v0.33.0
+07312023 06:39:10 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-macos-aarch64.tar.gz
+07312023 06:39:11 PM: INFO: Driver downloading response is 200
+07312023 06:39:11 PM: INFO: Get LATEST geckodriver version for 106.0 firefox
+07312023 06:39:11 PM: INFO: Driver has been saved in cache [/Users/preetisharma/.wdm/drivers/geckodriver/mac64/v0.33.0]
+07312023 06:39:13 PM: INFO: **********Test_001_Login**********
+07312023 06:39:13 PM: INFO: **********Verify Home Page title**********
+07312023 06:39:15 PM: INFO: *********Home Page title test is passed**********
+07312023 06:39:15 PM: INFO: ====== WebDriver manager ======
+07312023 06:39:15 PM: INFO: Get LATEST geckodriver version for 106.0 firefox
+07312023 06:39:16 PM: INFO: Get LATEST geckodriver version for 106.0 firefox
+07312023 06:39:16 PM: INFO: There is no [mac64] geckodriver "v0.33.0" for browser firefox "106.0" in cache
+07312023 06:39:16 PM: INFO: Get LATEST geckodriver version for 106.0 firefox
+07312023 06:39:16 PM: INFO: Getting latest mozilla release info for v0.33.0
+07312023 06:39:16 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-macos-aarch64.tar.gz
+07312023 06:39:17 PM: INFO: Driver downloading response is 200
+07312023 06:39:18 PM: INFO: Get LATEST geckodriver version for 106.0 firefox
+07312023 06:39:18 PM: INFO: Driver has been saved in cache [/Users/preetisharma/.wdm/drivers/geckodriver/mac64/v0.33.0]
+07312023 10:49:53 PM: INFO: **********Test_001_Login**********
+07312023 10:49:53 PM: INFO: **********Verify Home Page title**********
+07312023 10:49:56 PM: INFO: *********Home Page title test is passed**********
+07312023 10:50:01 PM: INFO: **********Verify Login test**********
+07312023 10:50:08 PM: INFO: *********Login test is passed**********
+07312023 10:50:54 PM: INFO: **********Test_001_Login**********
+07312023 10:50:54 PM: INFO: **********Verify Home Page title**********
+07312023 10:50:56 PM: INFO: *********Home Page title test is passed**********
+07312023 10:50:59 PM: INFO: **********Verify Login test**********
+07312023 10:51:05 PM: INFO: *********Login test is passed**********
+07312023 11:50:58 PM: INFO: ******** verify login DDT test********
+07312023 11:50:58 PM: INFO: **********Verify Login test**********
+07312023 11:51:11 PM: INFO: ***********Test is passed********
+07312023 11:51:13 PM: INFO: ********Login DDT test is passed*********
+07312023 11:51:13 PM: INFO: ******End of Login DDT test is********
+07312023 11:52:52 PM: INFO: ******** verify login DDT test********
+07312023 11:52:52 PM: INFO: **********Verify Login test**********
+07312023 11:53:02 PM: INFO: ***********Test is passed********
+07312023 11:53:09 PM: INFO: ********Test is passed********
+07312023 11:53:14 PM: INFO: ********Test is passed********
+07312023 11:53:20 PM: INFO: ********Test is passed********
+07312023 11:53:20 PM: INFO: ********Login DDT test is passed*********
+08012023 03:43:21 PM: WARNING: Error getting version of chromedriver 115. Retrying with chromedriver 114 (attempt 1/5)
+08012023 03:43:23 PM: INFO: **********Test_0013_AddCustomer**********
+08012023 03:43:30 PM: INFO: ********* Login is successfull
+08012023 03:43:30 PM: INFO: *********Starting add customer***********
+08012023 03:44:08 PM: INFO: **********Test_0013_AddCustomer**********
+08012023 03:44:15 PM: INFO: ********* Login is successfull
+08012023 03:44:15 PM: INFO: *********Starting add customer***********
+08012023 03:47:41 PM: INFO: **********Test_0013_AddCustomer**********
+08012023 03:47:49 PM: INFO: ********* Login is successfull
+08012023 03:47:49 PM: INFO: *********Starting add customer***********
+08012023 03:48:52 PM: INFO: **********Test_0013_AddCustomer**********
+08012023 03:48:57 PM: INFO: ********* Login is successfull
+08012023 03:48:57 PM: INFO: *********Starting add customer***********
+08012023 03:51:11 PM: INFO: **********Test_0013_AddCustomer**********
+08012023 03:51:16 PM: INFO: ********* Login is successfull
+08012023 03:51:16 PM: INFO: *********Starting add customer***********
+08012023 03:54:14 PM: INFO: **********Test_0013_AddCustomer**********
+08012023 03:54:25 PM: INFO: ********* Login is successfull
+08012023 03:54:25 PM: INFO: *********Starting add customer***********
+08012023 10:30:50 PM: INFO: **********Test_0013_AddCustomer**********
+08012023 10:31:02 PM: INFO: ********* Login is successfull
+08012023 10:31:02 PM: INFO: *********Starting add customer***********
+08012023 10:34:03 PM: INFO: **********Test_0013_AddCustomer**********
+08012023 10:34:13 PM: INFO: ********* Login is successfull
+08012023 10:34:13 PM: INFO: *********Starting add customer***********
+08012023 11:45:40 PM: INFO: **********Test_0013_AddCustomer**********
+08012023 11:45:53 PM: INFO: ********* Login is successfull
+08012023 11:45:53 PM: INFO: *********Starting add customer***********
+08012023 11:50:58 PM: INFO: **********Test_0013_AddCustomer**********
+08012023 11:51:09 PM: INFO: ********* Login is successfull
+08012023 11:51:09 PM: INFO: *********Starting add customer***********
+08012023 11:52:14 PM: INFO: **********Test_0013_AddCustomer**********
+08012023 11:52:22 PM: INFO: ********* Login is successfull
+08012023 11:52:22 PM: INFO: *********Starting add customer***********
+08012023 11:55:26 PM: INFO: **********Test_0013_AddCustomer**********
+08012023 11:55:34 PM: INFO: ********* Login is successfull
+08012023 11:55:34 PM: INFO: *********Starting add customer***********
+08012023 11:56:47 PM: INFO: **********Test_0013_AddCustomer**********
+08012023 11:56:54 PM: INFO: ********* Login is successfull
+08012023 11:56:54 PM: INFO: *********Starting add customer***********
+08012023 11:58:46 PM: INFO: **********Test_0013_AddCustomer**********
+08012023 11:58:54 PM: INFO: ********* Login is successfull
+08012023 11:58:54 PM: INFO: *********Starting add customer***********
+08022023 12:02:16 AM: INFO: **********Test_0013_AddCustomer**********
+08022023 12:02:23 AM: INFO: ********* Login is successfull
+08022023 12:02:23 AM: INFO: *********Starting add customer***********
+08022023 12:02:49 AM: INFO: **********Test_0013_AddCustomer**********
+08022023 12:02:56 AM: INFO: ********* Login is successfull
+08022023 12:02:56 AM: INFO: *********Starting add customer***********
+08022023 12:03:01 AM: INFO: *********Saving customer info***********
+08022023 12:04:51 AM: INFO: **********Test_0013_AddCustomer**********
+08022023 12:04:59 AM: INFO: ********* Login is successfull
+08022023 12:04:59 AM: INFO: *********Starting add customer***********
+08022023 12:05:06 AM: INFO: *********Saving customer info***********
+08022023 12:05:06 AM: INFO: *********Add Customer Test passes***********
+08022023 12:05:06 AM: INFO: *********Ending Add Customer Test***********
+08022023 11:09:19 AM: INFO: **********Test_0013_AddCustomer**********
+08022023 11:09:28 AM: INFO: ********* Login is successfull
+08022023 11:09:28 AM: INFO: *********Starting add customer***********
+08022023 11:09:32 AM: INFO: *********Saving customer info***********
+08022023 11:09:32 AM: INFO: *********Add Customer Test passes***********
+08022023 11:09:32 AM: INFO: *********Ending Add Customer Test***********
+08022023 12:49:11 PM: INFO: **********Test_0013_AddCustomer**********
+08022023 12:49:22 PM: INFO: ********* Login is successfull
+08022023 12:49:22 PM: INFO: *********Starting Search customer***********
+08022023 12:49:51 PM: INFO: **********Test_0013_AddCustomer**********
+08022023 12:49:58 PM: INFO: ********* Login is successfull
+08022023 12:49:58 PM: INFO: *********Starting Search customer***********
+08022023 12:51:15 PM: INFO: **********Test_0013_AddCustomer**********
+08022023 12:51:19 PM: INFO: ********* Login is successfull
+08022023 12:51:19 PM: INFO: *********Starting Search customer***********
+08022023 12:53:44 PM: INFO: **********Test_0013_AddCustomer**********
+08022023 12:53:51 PM: INFO: ********* Login is successfull
+08022023 12:53:51 PM: INFO: *********Starting Search customer***********
+08022023 12:54:46 PM: INFO: **********Test_0013_AddCustomer**********
+08022023 12:54:50 PM: INFO: ********* Login is successfull
+08022023 12:54:50 PM: INFO: *********Starting Search customer***********
+08022023 12:56:28 PM: INFO: **********Test_0013_AddCustomer**********
+08022023 12:56:37 PM: INFO: ********* Login is successfull
+08022023 12:56:37 PM: INFO: *********Starting Search customer***********
+08022023 12:58:52 PM: INFO: **********Test_0013_AddCustomer**********
+08022023 12:58:59 PM: INFO: ********* Login is successfull
+08022023 12:58:59 PM: INFO: *********Starting Search customer***********
+08022023 12:59:33 PM: INFO: **********Test_0013_AddCustomer**********
+08022023 12:59:40 PM: INFO: ********* Login is successfull
+08022023 12:59:40 PM: INFO: *********Starting Search customer***********
+08022023 01:00:24 PM: INFO: **********Test_0013_AddCustomer**********
+08022023 01:00:30 PM: INFO: ********* Login is successfull
+08022023 01:00:30 PM: INFO: *********Starting Search customer***********
+08022023 01:01:56 PM: INFO: **********Test_0013_AddCustomer**********
+08022023 01:02:03 PM: INFO: ********* Login is successfull
+08022023 01:02:03 PM: INFO: *********Starting Search customer***********
+08022023 01:03:58 PM: INFO: **********Test_0013_AddCustomer**********
+08022023 01:04:06 PM: INFO: ********* Login is successfull
+08022023 01:04:06 PM: INFO: *********Starting Search customer***********
+08022023 01:04:39 PM: INFO: **********Test_0013_AddCustomer**********
+08022023 01:04:44 PM: INFO: ********* Login is successfull
+08022023 01:04:44 PM: INFO: *********Starting Search customer***********
+08022023 01:16:15 PM: INFO: **********Test_0013_AddCustomer**********
+08022023 01:16:21 PM: INFO: ********* Login is successfull
+08022023 01:16:21 PM: INFO: *********Starting Search customer***********
+08022023 01:17:23 PM: INFO: **********Test_0013_AddCustomer**********
+08022023 01:17:30 PM: INFO: ********* Login is successfull
+08022023 01:17:30 PM: INFO: *********Starting Search customer***********
+08022023 01:20:24 PM: INFO: **********Test_0013_AddCustomer**********
+08022023 01:20:29 PM: INFO: ********* Login is successfull
+08022023 01:20:29 PM: INFO: *********Starting Search customer***********
+08022023 01:22:28 PM: INFO: **********Test_0013_AddCustomer**********
+08022023 01:22:35 PM: INFO: ********* Login is successfull
+08022023 01:22:35 PM: INFO: *********Starting Search customer***********
+08022023 01:22:42 PM: INFO: *********TC_Search result finished***********
+08022023 01:23:01 PM: INFO: **********Test_0013_AddCustomer**********
+08022023 01:23:09 PM: INFO: ********* Login is successfull
+08022023 01:23:09 PM: INFO: *********Starting Search customer***********
+08022023 01:23:11 PM: INFO: *********TC_Search result finished***********
+08022023 05:49:17 PM: WARNING: Error getting version of chromedriver 115. Retrying with chromedriver 114 (attempt 1/5)
+08022023 05:49:19 PM: INFO: **********Test_0013_AddCustomer**********
+08022023 05:49:25 PM: INFO: ********* Login is successfull
+08022023 05:49:25 PM: INFO: *********Starting add customer***********
+08022023 05:49:30 PM: INFO: *********Saving customer info***********
+08022023 05:49:30 PM: INFO: *********Add Customer Test passes***********
+08022023 05:49:31 PM: INFO: *********Ending Add Customer Test***********
+08022023 05:49:33 PM: INFO: **********Verify Login test**********
+08022023 05:49:37 PM: INFO: *********Login test is passed**********
+08022023 05:51:05 PM: INFO: **********Test_0013_AddCustomer**********
+08022023 05:51:10 PM: INFO: ********* Login is successfull
+08022023 05:51:10 PM: INFO: *********Starting add customer***********
+08022023 05:51:15 PM: INFO: *********Saving customer info***********
+08022023 05:51:15 PM: INFO: *********Add Customer Test passes***********
+08022023 05:51:15 PM: INFO: *********Ending Add Customer Test***********
+08022023 05:51:16 PM: INFO: **********Test_001_Login**********
+08022023 05:51:16 PM: INFO: **********Verify Home Page title**********
+08022023 05:51:17 PM: INFO: *********Home Page title test is passed**********
+08022023 05:51:19 PM: INFO: **********Verify Login test**********
+08022023 05:51:23 PM: INFO: *********Login test is passed**********
+08022023 05:51:24 PM: INFO: ******** verify login DDT test********
+08022023 05:51:24 PM: INFO: **********Verify Login test**********
+08022023 05:51:33 PM: INFO: ***********Test is passed********
+08022023 05:51:41 PM: INFO: ********Test is passed********
+08022023 05:51:46 PM: INFO: ********Test is passed********
+08022023 05:51:52 PM: INFO: ********Test is passed********
+08022023 05:51:52 PM: INFO: ********Login DDT test is passed*********
+08022023 05:51:53 PM: INFO: **********Test_0013_AddCustomer**********
+08022023 05:51:59 PM: INFO: ********* Login is successfull
+08022023 05:51:59 PM: INFO: *********Starting Search customer***********
