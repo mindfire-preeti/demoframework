@@ -10,7 +10,8 @@ from pytest_metadata.plugin import metadata_key
 @pytest.fixture()
 def setup(browser):
     if browser == 'chrome':
-        service = Service(executable_path='/Users/preetisharma/Documents/Drivers/chromedriver.exe')
+        # service = Service(executable_path='/Users/preetisharma/Documents/Drivers/chromedriver.exe')
+        service = Service(executable_path='./drivers/chromedriver-mac-x64')
         driver = webdriver.Chrome(service=service)
         print("Launching chrome browser")
     elif browser == 'firefox':
